@@ -7,4 +7,4 @@
 5. `echo > filename.ext` - to make a new file in the current directory.
 6. `RD [directory name]` or `RMDIR [directory name]` - to delete directory.
 7. `DEL [file name]` or `ERASE [file name]` - to delete a file.
-8. `REN [directory/file name]` or `RENAME [directory/file neme]` - to rename a file or directory.
+8. `REN "[directory/file name]" "[new directory/file name"]` or `RENAME "[directory/file neme]" "[new directory/file name"]` - to rename a file or directory.
